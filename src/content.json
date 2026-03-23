@@ -1,0 +1,245 @@
+{
+  "header": {
+    "logo": "Wildlife",
+    "languages": ["English", "French", "Spanish"],
+    "navLinks": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Service", "href": "#service" },
+      { "label": "Donate", "href": "#donate" },
+      { "label": "Event", "href": "#event" },
+      { "label": "Contact", "href": "#" }
+    ],
+    "donationButton": "Donation"
+  },
+
+  "hero": {
+    "id": "home",
+    "subtitleImage": "subtitle-img-white.png",
+    "subtitleText": "Welcome to Wildlife",
+    "title": "Share Care to Protect",
+    "highlight": "Global Wildlife",
+    "description": "Together we safeguard endangered species and natural habitats through responsible action, sustainable care, and global conservation initiatives for future generations.",
+    "buttonText": "Donate Now"
+  },
+
+  "about": {
+    "sectionId": "about",
+    "decoTitle": "About Us",
+    "subtitleText": "Why Choose Us",
+    "title": "Rise Your Hand to Save",
+    "highlight": "World Animals Life",
+    "description": "But I must explain to you how all this mistaken denouncing pleasure and praising pain was born and I will give you a complete account of the system.",
+    "images": {
+      "deco": "deco-img.png",
+      "banners": ["about-banner-1.jpg", "about-banner-2.jpg", "about-banner-3.jpg", "about-banner-4.jpg"]
+    },
+    "tabs": [
+      {
+        "label": "Our Mission",
+        "points": ["Charity For Foods", "Charity For Education", "Charity For Water", "Charity For Medical"]
+      },
+      {
+        "label": "Our Vision",
+        "points": ["Protect Wildlife", "Save Natural Habitats", "Promote Sustainability"]
+      },
+      {
+        "label": "Next Plan",
+        "points": ["Global Awareness", "Community Programs", "Long Term Conservation"]
+      }
+    ],
+    "buttonText": "Learn More Us"
+  },
+
+  "cta": {
+    "title": "324+ Trusted Global Partners",
+    "buttonText": "Become a Partner",
+    "image": "cta-banner.jpg",
+    "imageAlt": "Fox"
+  },
+
+  "service": {
+    "sectionId": "service",
+    "subtitleText": "What We Do",
+    "title": "We Work Differently to",
+    "highlight": "keep The World Safe",
+    "backgroundImage": "service-map.png",
+    "items": [
+      {
+        "title": "Save Nature",
+        "text": "Tempor incididunt ut labores dolore magna suspene",
+        "icon": "Leaf"
+      },
+      {
+        "title": "Save Ecology",
+        "text": "Tempor incididunt ut labores dolore magna suspene",
+        "icon": "Globe"
+      },
+      {
+        "title": "Tree Plantation",
+        "text": "Tempor incididunt ut labores dolore magna suspene",
+        "icon": "Flower"
+      },
+      {
+        "title": "Clear Ocean",
+        "text": "Tempor incididunt ut labores dolore magna suspene",
+        "icon": "Ship"
+      }
+    ]
+  },
+
+  "donate": {
+    "sectionId": "donate",
+    "items": [
+      {
+        "image": "donate-1.jpg",
+        "title": "Raise Hand To Save Animals",
+        "raised": 562,
+        "goal": 34562,
+        "toGo": 864,
+        "progress": 83
+      },
+      {
+        "image": "donate-2.jpg",
+        "title": "Raise Hand To Save Animals",
+        "raised": 562,
+        "goal": 34562,
+        "toGo": 864,
+        "progress": 83
+      },
+      {
+        "image": "donate-3.jpg",
+        "title": "Raise Hand To Save Animals",
+        "raised": 562,
+        "goal": 34562,
+        "toGo": 864,
+        "progress": 83
+      },
+      {
+        "image": "donate-4.jpg",
+        "title": "Raise Hand To Save Animals",
+        "raised": 562,
+        "goal": 34562,
+        "toGo": 864,
+        "progress": 83
+      }
+    ],
+    "buttonText": "Donation"
+  },
+
+  "testimonials": {
+    "subtitleText": "Our Testimonials",
+    "title": "What People Say About",
+    "highlight": "Our Organization",
+    "quote": "Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaquesa quae abillo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo enimpsam voluptatem",
+    "name": "David S. Neuman",
+    "role": "Business Manager",
+    "avatar": "testi-avatar.png",
+    "banner": "testi-banner.jpg"
+  },
+
+  "partner": {
+    "items": [
+      {
+        "name": "Children Fund",
+        "logoGray": "partner-1.png",
+        "logoColor": "partner-1-active.png"
+      },
+      {
+        "name": "Non Profit Agency",
+        "logoGray": "partner-2.png",
+        "logoColor": "partner-2-active.png"
+      },
+      {
+        "name": "Rise Hand Help Us",
+        "logoGray": "partner-3.png",
+        "logoColor": "partner-3-active.png"
+      },
+      {
+        "name": "Helping",
+        "logoGray": "partner-4.png",
+        "logoColor": "partner-4-active.png"
+      },
+      {
+        "name": "Poor Fund Organization",
+        "logoGray": "partner-5.png",
+        "logoColor": "partner-5-active.png"
+      }
+    ]
+  },
+
+  "event": {
+    "sectionId": "event",
+    "subtitleText": "Event & Program",
+    "title": "Our Most Popular Causes For",
+    "highlight": "Building Fund",
+    "buttonText": "Learn More Us",
+    "items": [
+      {
+        "month": "Jan",
+        "date": "05",
+        "category": "Ocean Water",
+        "title": "Far from the countries Vokalia and Consonantia 2080",
+        "text": "Sit amet consectetur adipiscing elit sed do eiusmod tempor"
+      },
+      {
+        "month": "Feb",
+        "date": "23",
+        "category": "Ocean Water",
+        "title": "Far from the countries Vokalia and Consonantia 2080",
+        "text": "Sit amet consectetur adipiscing elit sed do eiusmod tempor"
+      },
+      {
+        "month": "Mar",
+        "date": "27",
+        "category": "Ocean Water",
+        "title": "Far from the countries Vokalia and Consonantia 2080",
+        "text": "Sit amet consectetur adipiscing elit sed do eiusmod tempor"
+      }
+    ]
+  },
+
+  "instagram": {
+    "items": [
+      {
+        "image": "insta-1.jpg",
+        "alt": "Lion"
+      },
+      {
+        "image": "insta-2.jpg",
+        "alt": "Deer"
+      },
+      {
+        "image": "insta-3.jpg",
+        "alt": "Wild Bear"
+      },
+      {
+        "image": "insta-4.jpg",
+        "alt": "Deer"
+      },
+      {
+        "image": "insta-5.jpg",
+        "alt": "Horses"
+      }
+    ]
+  },
+
+  "footer": {
+    "links": [
+      {
+        "label": "Terms of use",
+        "href": "#"
+      },
+      {
+        "label": "Privacy & Policy",
+        "href": "#"
+      }
+    ],
+    "copyright": {
+      "text": "©",
+      "author": "Nawazdevx",
+      "authorLink": "#",
+      "suffix": "All Rights Reserved."
+    }
+  }
+}
