@@ -5,7 +5,6 @@
     <strong>About the Project:</strong>
     Wildlife Care is a nonprofit-themed website built with React and Vite. It presents conservation services, donation campaigns, upcoming events, and partner organizations — all in a clean, responsive layout designed to inform and engage visitors.
   </p>
-
   <p>
     <strong>Key Highlights:</strong>
     Features a sticky header with smooth scroll behavior, interactive tabbed content, animated donation progress bars, and a fully responsive design across all screen sizes.
